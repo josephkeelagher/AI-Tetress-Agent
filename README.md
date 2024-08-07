@@ -41,6 +41,7 @@
 <!-- ABOUT THE PROJECT -->
 
 ## Project Showcase
+![2024-08-08 00-46-13 (1)](https://github.com/user-attachments/assets/f568b1f6-b3f7-4358-8b1b-c6449140de71)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
